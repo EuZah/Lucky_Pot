@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lucky Pot</string>
+    <string name="btnStart">!SPIN ME!</string>
+    <string name="win">PRIZE WIN!!!</string>
+    <string name="little_prize">PRIZE!</string>
+    <string name="lose">You LOSE!</string>
+    <string name="stop">STOP ME</string>
+    <string name="start_msg">PRIZE!</string>
+    <string name="msgLwin"></string>
+    <string name="bigWinText">BIG PRIZE:</string>
+    <string name="msgBWin">0</string>
+    <string name="LittleWinText">WIN:</string>
+    <string name="msgLWin">0</string>
+    <string name="facebook_app_id">3219563468222978</string>
+</resources>
